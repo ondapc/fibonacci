@@ -11,7 +11,7 @@ Release Information
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the download page at ondapc.com
-<http://ondapc.com/>`_ page.
+<http://ondapc.com/>
 
 **************************
 Changelog and New Features
