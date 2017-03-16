@@ -38,7 +38,7 @@ if ( !is_numeric($fib) ) { $fib = "2"; }
 </div> 	
 
 <br/>
-<p>The following code generates the same results and uses 3 techniques to solve the same problem.</p>
+<p>The following functions generate the same fibonacci sequence with varying optimizations.</p>
 <br/>
 
 <div class="row">
