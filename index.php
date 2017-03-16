@@ -1,7 +1,8 @@
 <?php
 require_once('functions.php');
 $fib = (isset($_REQUEST['f']) && $_REQUEST['f']) ? $_REQUEST['f'] : '20';
-if ( !is_numeric($fib) ) { $fib = "2"; }
+// Lets make sure we aren't getting stuffed :-P
+if ( !is_numeric($fib) || $fib>100 ) { $fib = "2"; }	
 ?>
 <!DOCTYPE html>
 <html>
