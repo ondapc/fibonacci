@@ -24,7 +24,7 @@ if ( !is_numeric($fib) ) { $fib = "2"; }
 <body>
 <div style="padding:15px;">
 
-<p>The Fibonacci Number with position <b><?php echo $fib; ?></b> is <b><?php echo getFibonacciNumber($fib);?></b></p>
+<p>The Fibonacci Number <b><?php echo $fib; ?></b> corresponds to the number <b><?php echo getFibonacciNumber($fib);?></b></p>
 
 <div class="dropdown">
   <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Fibonacci <span class="caret"></span></button>
