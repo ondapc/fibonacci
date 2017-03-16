@@ -1,6 +1,6 @@
-###################
+*******************
 What is Fibonacci
-###################
+*******************
 
 In the Fibonacci sequence of numbers, each number is the sum of the previous two numbers. 
 Fibonacci numbers begin with the sequence 0, 1, 1, 2...
