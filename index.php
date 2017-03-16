@@ -10,7 +10,7 @@ $fib = (isset($_REQUEST['f']) && $_REQUEST['f']) ? $_REQUEST['f'] : '15';
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="format-detection" content="address=no,email=no,telephone=no">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<title>Magic Squares using PHP</title>
+<title>Fibonacci Series - Multiple PHP Functions</title>
 <!-- CDN CSS -->
 <link rel="stylesheet" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css"><!-- DataTables CSS -->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"><!-- BootStrap CSS -->
